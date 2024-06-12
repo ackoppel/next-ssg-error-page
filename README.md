@@ -7,4 +7,4 @@ This is an example repository of SSG vs Dynamic page runtime error handling.
 
 Issue:
 
-`error.tsx` is resolved only for dynamic page error. 
+`error.tsx` is resolved only for dynamic page error if running the `production` build. 
